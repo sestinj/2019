@@ -1,4 +1,4 @@
-# 🎓 WWDC 2019 Scholarship Submissions 🍎
+# WWDC 2019 Scholarship Submissions
 Student submissions for the WWDC 2019 Scholarship
 
 ![WWDC2019 Header](https://i.imgur.com/hOdqkDh.jpg)
